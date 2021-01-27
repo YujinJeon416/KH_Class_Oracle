@@ -541,3 +541,4 @@ select emp_name 직원명, case
 from employee
 where dept_code in ('D5','D6','D9')
 order by dept_code;
+                               
